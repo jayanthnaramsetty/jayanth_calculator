@@ -310,9 +310,6 @@
                                                 <color key="tintColor" systemColor="systemBackgroundColor"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="gray" title="%"/>
-                                                <connections>
-                                                    <action selector="percentage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Bn-y8-UDW"/>
-                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LZO-n9-GOr">
                                                 <rect key="frame" x="240" y="0.0" width="72" height="50"/>
